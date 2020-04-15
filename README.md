@@ -16,6 +16,6 @@ Python3 has been used for this project. Some of the libraries should be had and 
 ## Summary of Results
 A blog post is written to share analysis results. Available here: https://medium.com/@taha.huzeyfe/baby-steps-in-data-science-a-discovery-to-airbnb-seattle-data-367463f9051f
 ## Licences and Acknowledgements
-Thanks to Udacity for Data Science course project.
+Thanks to Udacity for Data Science course project. Furthermore, thanks to providers of this open to data to give the opportunity explore new areas.
 
 Please warn me about my mistakes or do not hesitate to give inspiring ideas.
