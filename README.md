@@ -14,7 +14,7 @@ Python3 has been used for this project. Some of the libraries should be had and 
 * **Data:** *listing.csv* has a list of all places in Seattle and detailed information. *Reviews.csv* includes comments that customers made. *Calendar.csv* show the availability and price of all places for one-year.
 * **Code** Four jupyter notebook, one of which is used to explore data and remainings are for the answer to each question.
 ## Summary of Results
-A blog post is written to share analysis results. Available here: 
+A blog post is written to share analysis results. Available here: https://medium.com/@taha.huzeyfe/baby-steps-in-data-science-a-discovery-to-airbnb-seattle-data-367463f9051f
 ## Licences and Acknowledgements
 Thanks to Udacity for Data Science course project.
 
